@@ -19,7 +19,7 @@
 Clone the repository
 
 ```bash
-https://github.com/viyas52/End-To-End-MLOPS-Proj/blob/main/setup.py
+https://github.com/viyas52/End-To-End-MLOPS-Proj.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
