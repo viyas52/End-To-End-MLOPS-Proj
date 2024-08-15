@@ -24,11 +24,11 @@ https://github.com/viyas52/End-To-End-MLOPS-Proj/blob/main/setup.py
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n mlops python=3.8 -y
+conda create -n ETEMP python=3.8 -y
 ```
 
 ```bash
-conda activate mlops
+conda activate ETEMP
 ```
 
 
